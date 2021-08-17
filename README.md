@@ -1,0 +1,1 @@
+# official-nextjs-strapi
