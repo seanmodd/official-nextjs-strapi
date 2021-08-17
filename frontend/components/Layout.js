@@ -25,5 +25,5 @@ export default function Layout({ title, keyowrds, description, children }) {
 Layout.defaultProps = {
   title: "Sport News | Find Latest Sport News",
   description: "A Website that brings you latest news about sports",
-  keyowrds: "cricket, football, f1, tennis, badminton, golf",
+  keyowrds: "NBA, NFL, EPL, UEFA Champions League, La Liga, and more!",
 };
